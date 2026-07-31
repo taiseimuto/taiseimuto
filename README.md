@@ -27,28 +27,3 @@
 
 * C++
 * OS Development
-* Lisp
-
-<br>
-
-## ⬛ Preferences
-
-| Category | Software |
-| --- | --- |
-| OS | Arch Linux |
-| WM | Sway |
-| Editor | Emacs with Evil |
-
-<br>
-
-<!--
-## 🔴 2026の目標
-
-- [ ] ゼロからのOS自作入門
-- [ ] 開発系インターンシップ参加
-- [ ] OSSにPull Requestを送る
-- [ ] TOEIC L&R 900点以上取得
--->
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtaisei610&layout=compact&hide=emacs%20lisp,shell,lua) -->
-
