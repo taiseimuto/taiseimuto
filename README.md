@@ -3,6 +3,7 @@
 * C (data structure & algorithms)
 * Python (FastAPI, ...)
 * HTML/CSS/JavaScript
+* Git/GitHub
 * Linux command line
 
 <br>
@@ -22,8 +23,9 @@
 
 <br>
 
-
+<!--
 ## ⬛ Currently Learning & Interests
 
 * C++
 * OS Development
+--> 
