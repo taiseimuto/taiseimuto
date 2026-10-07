@@ -1,7 +1,7 @@
 ## ⬛ Skills
 
-* C (data structure & algorithms)
-* Python (FastAPI, ...)
+* C
+* Python
 * HTML/CSS/JavaScript
 * Git/GitHub
 * Linux command line
@@ -17,15 +17,9 @@
 
 ## ⬛ Certificates
 
+* 基本情報処理技術者 (Aug. 2026)
 * TOEIC L&R: 870 (Jan. 2026)
 * Amateur Third-Class Radio Operator License (Sep. 2020)
 
 
 <br>
-
-<!--
-## ⬛ Currently Learning & Interests
-
-* C++
-* OS Development
---> 
